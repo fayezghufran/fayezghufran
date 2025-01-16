@@ -5,8 +5,3 @@
 - 📫 How to reach me: fayezghufran8573@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I love finding creative ways to bridge frontend designs with powerful backend functionalities!
-
-<!---
-fayezghufran/fayezghufran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
