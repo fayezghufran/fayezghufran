@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm passionate about **MERN stack development**, c
 ## 📫 Let's Connect!  
 
 - 📧 Email: [fayezghufran8573@gmail.com](mailto:fayezghufran8573@gmail.com)  
-- 💼 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/fayez-ghufran)  
-- 🌐 Portfolio: [Your Portfolio](https://fayez-portfolio-xi.vercel.app/)  
+- 💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/fayez-ghufran)  
+- 🌐 Portfolio: [My Portfolio](https://fayez-portfolio-xi.vercel.app/)  
 
 ---
 
