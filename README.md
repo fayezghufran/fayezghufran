@@ -1,21 +1,24 @@
 # 👋 Hi, I’m Fayez Ghufran  
 
-Welcome to my GitHub profile! I'm passionate about **MERN stack development**, creating seamless full-stack applications, and exploring efficient backend solutions.
+Welcome to my GitHub profile! I'm a Java Full Stack Developer with hands-on experience in building dynamic, scalable, and user-friendly web applications. I enjoy working on both frontend and backend, creating seamless integrations between modern UI and robust server-side technologies.
 
 ---
 
 ## 🌟 About Me  
 
-- 👀 **Interests**: MERN stack development, dynamic web applications, and clean, scalable code.  
+- 👀 **Interests**: Full Stack Development, dynamic web applications, and clean, scalable code.
+- 💻 **Tech Skills**:
+  - **Backend**: Java, Advanced Java (JDBC, Servlets, JSP), Hibernate, Spring, Spring Boot
+  - **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS
+  - **Database**: SQL, MySQL
 - 🌱 **Currently Learning**:  
-  - Enhancing my skills in **JavaScript**, **React.js**, and **Node.js**.  
-  - Exploring **MongoDB** and **Express.js** for building full-stack projects.  
+  - Enhancing expertise in Spring Boot and React.js for full-stack 
 - 💞️ **Open to Collaborate**:  
-  - MERN stack projects.  
+  - Java Full Stack projects.
   - Open-source initiatives.  
   - Opportunities to contribute to dynamic web applications.  
 - 😄 **Pronouns**: He/Him  
-- ⚡ **Fun Fact**: I enjoy finding creative ways to bridge frontend designs with powerful backend functionalities!  
+- ⚡ **Fun Fact**: I love connecting elegant frontend designs with powerful backend logic to deliver impactful solutions!  
 
 ---
 
@@ -27,4 +30,4 @@ Welcome to my GitHub profile! I'm passionate about **MERN stack development**, c
 
 ---
 
-⭐️ **Feel free to explore my repositories and connect with me!**  
+⭐️ **Explore my repositories to see my projects and journey as a Java Full Stack Developer!**  
