@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a Java Full Stack Developer with hands-on expe
 
 - 📧 Email: [fayezghufran8573@gmail.com](mailto:fayezghufran8573@gmail.com)  
 - 💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/fayez-ghufran)  
-- 🌐 Portfolio: [My Portfolio](https://fayez-portfolio-xi.vercel.app/)  
+- 🌐 Portfolio: [My Portfolio](https://fayez-me.vercel.app/)  
 
 ---
 
